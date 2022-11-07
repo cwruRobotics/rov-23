@@ -1,0 +1,10 @@
+# All values are from -1 to 1
+
+float32 surge # forwards or +x
+float32 sway # left or +y
+float32 heave # up or +z
+float32 pitch # Pitching down is positive
+float32 yaw # Yawing left is positive
+float32 roll # Rolling right is positive
+---
+bool success
