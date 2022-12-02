@@ -1,0 +1,21 @@
+<library path="src">
+  <class name="Controllers" type="fun_name.controllers.ControllersPlugin" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      TODO: replace this example RQT plugin description
+    </description>
+    <qtgui>
+      <group>
+        <label>CWRUbotix</label>
+        <statustip>Custom CWRUbotix plugins</statustip>
+        <icon type="theme">folder</icon>
+      </group>
+      <!-- optional grouping...
+      <group>
+        <label>Subgroup</label>
+      </group>
+      -->
+      <label>Controller Actions</label>
+    </qtgui>
+  </class>
+  <!-- Add further <class>s here to create more RQT plugins -->
+</library>
