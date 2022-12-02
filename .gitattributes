@@ -1,0 +1,3 @@
+# normalizes all text based files to use lf line endings
+# done so when people write from Windows they can use it in Linux
+* text=auto
